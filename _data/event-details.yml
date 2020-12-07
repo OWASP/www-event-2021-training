@@ -1,14 +1,13 @@
-title: OWASP Event Example
-dates: Augembuary 99th-101st
-training: Augembuary 99-100
-conference: Augembuary 101
-registration_url: /www-event-example/register/
+title: OWASP Training Event
+dates: TBD
+training: TBD
+conference: TBD
+registration_url: /register/
 logo_url: https://owasp.org/
-venue: OWASP Foundation Event Center
-location: 101 Simian Sands, Montpelier, VT
+venue: Your Home, the Coffee Shop, or Wherever You Are
+location: 
 background: background.jpg
 color: 797979
 analytics: 
 registration_open: false
-pitch: "Global AppSec - Example is coming January 1-5, 2055 to the OWASP Foundation Convention Center in Montpelier. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.
-        Join us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference."
+pitch: "Offering new topics and skills, our OWASP Training Course line-up kicks off with these offerings this March. Don't miss out on these multi-day virtual trainings to retool and level-up."
