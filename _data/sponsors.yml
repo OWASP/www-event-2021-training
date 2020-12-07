@@ -1,0 +1,15 @@
+- logo: /assets/images/sponsors/sponsor1.png
+  name: Sponsor1
+  url: https://owasp.org
+  backgroundSize: 125px
+  type: Gold
+- logo: /assets/images/sponsors/sponsor2.png
+  name: Sponsor2
+  url: https://owasp.org
+  backgroundSize: 125px
+  type: Ruby
+- logo: /assets/images/sponsors/sponsor3.png
+  name: Sponsor3
+  url: https://owasp.org
+  backgroundSize: 125px
+  type: Ruby
