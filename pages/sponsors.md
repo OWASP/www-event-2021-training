@@ -6,9 +6,7 @@ permalink: /sponsors/
 
 ---
 
-## Sponsors
-
-<strong> Virtual Training Course Sponsorship
+## Virtual Training Course Sponsorship Opportunities 
  
 *Max 5 sponsors per event, 6 total events per year
 
