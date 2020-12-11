@@ -2,14 +2,17 @@
   url: /
 - title: PROGRAM
   items:
-    - title: Schedule
+    - title: SOS Re-Run Schedule
       url : /schedule/
     #- title: Keynotes
     #  url : /
-    - title: Our Trainers
+    # - title: Our Trainers
       url : /
     #- title: Call for Speakers/Trainers
+     # url : /
+    - title: Call for Training 2021
       url : /
+    #- title: Call for Speakers/Trainers
 - title: ABOUT
   items:
     - title: Sponsorship Opportunities
