@@ -1,11 +1,11 @@
-- title: Full Conference
-  price: TBD
+- title: 2 Part Training
+  price: $595
   items: 
-    - title: Early Bird
-      price: TBD
-- title: Member Conference
-  price: TBD
-  items:
-    - title: Member Early Bird
-      price: TBD
+   # - title: Early Bird
+    #  price: TBD
+#- title: Member Conference
+ # price: TBD
+ # items:
+   # - title: Member Early Bird
+    #  price: TBD
           
