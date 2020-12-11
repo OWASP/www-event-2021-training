@@ -10,7 +10,7 @@ permalink: /sponsors/
 
 <strong> Virtual Training Course Sponsorship
  
-*Max 5 sponsors per event, 5 total events per year
+*Max 5 sponsors per event, 6 total events per year
 
 * <strong> Benefits Include:
  * All opt-in registrations will be shared with you as leads
@@ -22,7 +22,7 @@ permalink: /sponsors/
  
 * <strong> Package Costs:
  * $5,000/USD Corporate Member: $4,750/USD 
-   **Sponsor all 5 and receive a 10% discount**
+   **Sponsor all 6 and receive a 10% discount**
 
 
 Interested in Sponsoring a Virtual Training Course? Please contact <kelly.santalucia@owasp.com> 
