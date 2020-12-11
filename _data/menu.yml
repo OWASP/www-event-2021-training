@@ -19,7 +19,7 @@
       url  : /sponsors/
     #- title: Volunteer
      # url  : /
-    #- title: Venue, Travel, & Lodging
-     # url  : /
+    - title: Event Details
+     url  : /venue/about.md
     #- title: Progam Team
     #  url  : /
