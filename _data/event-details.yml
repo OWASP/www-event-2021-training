@@ -4,8 +4,8 @@ dates: "Next Event: <br> 2020 SOS Re-run January 26, 2021"
 # conference: TBD
 registration_url: /register/
 logo_url: https://owasp.org/
-venue: Virtual Event
-location: Virtual Training Events
+venue: Virtual Training Event
+location: 
 background: background.jpg
 color: 797979
 analytics: 
