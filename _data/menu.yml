@@ -7,7 +7,7 @@
     #- title: Keynotes
     #  url : /
     # - title: Our Trainers
-      url : /
+    #  url : /
     #- title: Call for Speakers/Trainers
      # url : /
     - title: Call for Training 2021
@@ -20,6 +20,6 @@
     #- title: Volunteer
      # url  : /
     - title: Event Details
-     url  : /venue/about.md
+      url  : /venue/about.md
     #- title: Progam Team
     #  url  : /
