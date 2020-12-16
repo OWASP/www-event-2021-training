@@ -81,6 +81,17 @@
                 "discountable": "True",
                 "display_order": "60"
             }
+        },
+        {
+            "id": "sku_IaCXm8CkiiRUNK",
+            "name": "Hacking Modern Web apps: Master the Future of Attack Vectors",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>With Anirudh Anand</p>",
+                "discountable": "True",
+                "display_order": "0"
+            }
         }
     ]
 }
