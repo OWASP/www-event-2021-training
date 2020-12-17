@@ -35,6 +35,17 @@
                 "discountable": "True",
                 "display_order": "0"
             }
+        },
+        {
+            "id": "sku_IaaS0LHxFA55G7",
+            "name": "DevSecOps Workshop: Putting Security Checks into your Build Pipeline",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>With Christian Schneider</p>",
+                "discountable": "True",
+                "display_order": "0"
+            }
         }
     ]
 }
