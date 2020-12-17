@@ -24,6 +24,17 @@
                 "discountable": "True",
                 "display_order": "0"
             }
+        },
+        {
+            "id": "sku_IaaR1Bh9ff2qap",
+            "name": "API Attacks Beyond the OWASP API Top 10",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>With Jason Kent</p>",
+                "discountable": "True",
+                "display_order": "0"
+            }
         }
     ]
 }
