@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec Example 2020
+title: OWASP Training Events 2021
 layout: event
 
 ---
