@@ -310,7 +310,7 @@
         </div>
       </div>
       <p class="legal-text">* Registrations are accepted on a full-payment, first-come, first-served basis only. Registration fees are non-refundable and non-transferable. For training classes, your email address may be shared with the Trainer for any session prep and tools. Any recording of training sessions is STRICTLY PROHIBITED. By purchasing a registration you automatically agree to comply with the <a href="https://owasp.org/www-policy/operational/conferences-events" target="_blank">OWASP Conference and Event Attendee Policy</a> and consent to receive emails containing information regarding this specific event and any training courses for which you registered.Additionally you can elect to receive marketing emails from us by selecting "Join the OWASP Marketing Mail List." Marketing mails include information and special offers for upcoming conferences, meetings, and other opportunities offered to you. You can revoke your consent to receive Marketing Mail List emails at any time by using the Unsubscribe link found at the bottom of these emails.</p>
-      <p class="legal-text">As we all struggle with our collective "new normal" from the global COVID-19 pandemic, the OWASP Foundation is offering a limited number of discounted tickets to our virtual training events.  Please <a href = "https://owasp.wufoo.com/forms/virtual-appsec-days-scholarship-application/">Apply Here</a></p>
+      <p class="legal-text">As we all struggle with our collective "new normal" from the global COVID-19 pandemic, the OWASP Foundation is offering a limited number of discounted tickets to our virtual training events.  Please <a href = "https://owasp.wufoo.com/forms/paby46902k3dta/">Apply Here</a></p>
     </form>
   </div>
 </div>
