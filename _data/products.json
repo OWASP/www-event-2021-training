@@ -46,6 +46,20 @@
                 "discountable": "True",
                 "display_order": "0"
             }
+        },
+        {
+            "id": "sku_Id1diuk9nWf0tv",
+            "name": "Modern Web Application Hacking for Beginners",
+            "amount": 0,
+            "metadata": {
+                "type": "regular",
+                "display_start": "2020-12-23",
+                "display_end": "2021-01-30",
+                "inventory": "60",
+                "description": "<p>With Bjoern Kimminich</p>",
+                "discountable": "True",
+                "display_order": "0"
+            }
         }
     ]
 }
