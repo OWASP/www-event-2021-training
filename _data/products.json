@@ -60,6 +60,17 @@
                 "discountable": "True",
                 "display_order": "0"
             }
+        },
+        {
+            "id": "sku_IhQVBJPtjKh34q",
+            "name": "Hands-on Threat Modeling and Tooling for DevSecOps",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>With Steven Wierckx</p>",
+                "discountable": "True",
+                "display_order": "0"
+            }
         }
     ]
 }
