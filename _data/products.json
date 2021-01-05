@@ -4,17 +4,6 @@
     "currency": "usd",
     "products": [
         {
-            "id": "sku_IZqFBhwtuvl22O",
-            "name": "Hacking the Cloud",
-            "amount": 49500,
-            "metadata": {
-                "type": "regular",
-                "description": "<p>With Anthony Webb</p>",
-                "discountable": "True",
-                "display_order": "0"
-            }
-        },
-        {
             "id": "sku_IaCXm8CkiiRUNK",
             "name": "Hacking Modern Web apps: Master the Future of Attack Vectors",
             "amount": 49500,
