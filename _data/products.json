@@ -37,20 +37,6 @@
             }
         },
         {
-            "id": "sku_Id1diuk9nWf0tv",
-            "name": "Modern Web Application Hacking for Beginners",
-            "amount": 0,
-            "metadata": {
-                "type": "regular",
-                "display_start": "2020-12-23",
-                "display_end": "2021-01-30",
-                "inventory": "22",
-                "description": "<p>With Bjoern Kimminich<br />\n*Free course, limited to 50 attendees.</p>",
-                "discountable": "True",
-                "display_order": "0"
-            }
-        },
-        {
             "id": "sku_IhQVBJPtjKh34q",
             "name": "Hands-on Threat Modeling and Tooling for DevSecOps",
             "amount": 49500,
