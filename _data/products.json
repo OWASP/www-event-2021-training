@@ -46,6 +46,17 @@
                 "discountable": "True",
                 "display_order": "0"
             }
+        },
+        {
+            "id": "sku_freeclass",
+            "name": "Modern Web Application Hacking for Beginners",
+            "amount": 0,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>With Bjoern Kimminich</p><p>**This course is offered for free to approved applicants of the Diversity Scholarship. Please complete the form by Jan. 18th to apply.</p>",
+                "discountable": "True",
+                "display_order": "0"
+            }
         }
     ]
 }

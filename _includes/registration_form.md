@@ -41,7 +41,7 @@
 }
 
 .ticket-button:hover {
-  background-color: #000000 !important;
+  background-color: #ddd !important;
   color: #ffffff;
 }
 
@@ -218,7 +218,16 @@
           <div class="ticket-option-title" v-on:click="toggleProduct(product.sku)">{{ product.name }}</div>
           <div class="ticket-option-description" v-html="product.description"></div>
         </div>
-        <div class="ticket-buy-button">
+        <div class="ticket-buy-button" v-if="product.sku === 'sku_freeclass'">
+          <div class="ticket-buy-button">
+            <a href="https://owasp.wufoo.com/forms/pudl8341qrmbry/">
+              <div class="cta-button grey" v-on:click="toggleProduct(product.sku)">
+                <div class="product-price">Apply Here</div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="ticket-buy-button" v-if="product.sku != 'sku_freeclass'">
           <div class="cta-button grey" v-on:click="toggleProduct(product.sku)" v-bind:class="{ selected: selectedProducts.includes(product.sku) }" v-if="product.inventory === null || parseInt(product.inventory) > 0">
             <div class="product-price">{{ product.price }}</div>
           </div>
