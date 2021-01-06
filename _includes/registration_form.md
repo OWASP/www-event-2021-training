@@ -222,7 +222,7 @@
           <div class="ticket-buy-button">
             <a href="https://owasp.wufoo.com/forms/pudl8341qrmbry/">
               <div class="cta-button grey" v-on:click="toggleProduct(product.sku)">
-                <div class="product-price">Apply Here</div>
+                <div class="product-price">Apply</div>
               </div>
             </a>
           </div>
