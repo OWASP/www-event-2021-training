@@ -20,7 +20,7 @@
             "amount": 49500,
             "metadata": {
                 "type": "regular",
-                "description": "<p>With Jason Kent</p>",
+                "description": "<p>With Jason Kent<br />\n(2-Part Training)</p>",
                 "discountable": "True",
                 "display_order": "0"
             }
