@@ -57,6 +57,17 @@
                 "discountable": "True",
                 "display_order": "0"
             }
+        },
+        {
+            "id": "sku_IiSVusE23mDcMN",
+            "name": "Hacking the Cloud",
+            "amount": 99000,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>With Anthony Webb<br />\n(3-Part Training)</p>",
+                "discountable": "True",
+                "display_order": "0"
+            }
         }
     ]
 }
