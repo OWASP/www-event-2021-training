@@ -119,13 +119,14 @@
   width: 0;
 }
 
-.checkbox-container .checkmark {
+.event .checkbox-container .checkmark {
   position: absolute;
+  border: 1px solid #000;
   top: 0;
   left: 0;
   height: 25px;
   width: 25px;
-  background-color: #eee;
+  background-color: #888;
 }
 
 .checkbox-container:hover input ~ .checkmark {
@@ -295,6 +296,10 @@
           <span class="checkmark"></span>
         </label>
         <div class="error-text" v-if="errors.terms_of_purchase">{{ errors.terms_of_purchase[0] }}</div>
+        <label class="checkbox-container">OWASP and its partners will send you information regarding 2021 Virtual Training Courses. Your data will not be shared with third parties without your consent. Please check here if you’d like to hear from 2021 Virtual Training Sponsors about their products and services which are relevant to you. You can opt out of receiving these messages by clicking unsubscribe via the promotional emails.
+          <input type="checkbox" v-model="partner_mailing_list">
+          <span class="checkmark"></span>
+        </label>
         <label class="checkbox-container">Join the OWASP Mailing List
           <input type="checkbox" v-model="mailing_list">
           <span class="checkmark"></span>
@@ -353,6 +358,7 @@ window.addEventListener('load', function () {
       city: null,
       terms_of_purchase: false,
       mailing_list: false,
+      partner_mailing_list: false,
       products: {{ site.data.products | jsonify }},
       countries: {{ site.data.countries | jsonify }},
       errors: {},
@@ -470,7 +476,8 @@ window.addEventListener('load', function () {
             city: vm.city,
             sku: vm.selectedProducts,
             discount_code: vm.discount_code,
-            mailing_list: vm.mailing_list
+            mailing_list: vm.mailing_list,
+            partner_mailing_list: vm.partner_mailing_list
           }
           axios.post('{{ include.checkout_url | default: "https://owaspadmin.azurewebsites.net/api/EventsCheckout?code=qIyazIloMxpvGtTkSI0cXNoDEwzNIcFe9xp7bGm54t0lakuBEKJ73Q==" }}', postData).then(function (response) {
             if (response.data.data.response_type && response.data.data.response_type === 'redirect') {
