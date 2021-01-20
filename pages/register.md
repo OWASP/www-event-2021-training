@@ -17,7 +17,7 @@ Welcome to Training Event presented by the OWASP Foundation. Please note that th
 {% endif %}
 
 {% if site.data.event-details.registration_open %}
-### **All courses take place simultaneously on January 26-28 from 12:00-4:00pm or 12:00-5:00pm EST. Please only register for one course. Please note any application steps which may be required to attend select courses below.**
+### **All courses take place simultaneously on January 26-27 from 12:00-4:00pm EST. Please only register for one course. Please note any application steps which may be required to attend select courses below.**
  
 {% include registration_form.md show_dietary_restrictions="false" primary_color="#0079a7" %}
 
