@@ -67,7 +67,8 @@
                 "type": "regular",
                 "description": "<p>With Anthony Webb<br />\n(3-Part Training)</p>",
                 "discountable": "True",
-                "display_order": "0"
+                "display_order": "0",
+                "display_end": "2021-01-18"
             }
         }
     ]
