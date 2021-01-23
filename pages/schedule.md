@@ -5,7 +5,7 @@ layout: event_noheader
 permalink: /schedule/
 
 ---
-## Training Course Registration is now CLOSED. Please join us for our future 2021 OWASP Virtual Training coming soon.
+## Training Course Registration is now CLOSED. Please join us for our future 2021 OWASP Virtual Training Courses coming soon.
 
 ## The virtual training classes range between 4-8 hours in total length. Courses offered in 4 hour blocks per day from January 26-27th. 
 
