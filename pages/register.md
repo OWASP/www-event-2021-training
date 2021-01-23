@@ -6,13 +6,12 @@ permalink: /register/
 
 ---
 
-## Registration 
+### Registration 
 {% if site.data.event-details.registration_open %}
-Welcome to Training Event presented by the OWASP Foundation. Please note that this a fully virtual event. Upon completion of your registration you will receive a confirmation. Seven days prior to the event you receive detailed instruction on how to log-on to the virtual platform. 
 
 {% else %}
 <br>
-### Registration is closed.
+## Registration is closed.
 <br>
 {% endif %}
 
