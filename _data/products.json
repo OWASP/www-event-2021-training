@@ -35,7 +35,8 @@
                 "type": "regular",
                 "description": "<p>With Christian Schneider<br />\n(2-Part Training)</p>",
                 "discountable": "True",
-                "display_order": "0"
+                "display_order": "0",
+                "display_end": "2021-01-22"
             }
         },
         {
