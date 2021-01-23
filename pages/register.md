@@ -11,7 +11,7 @@ permalink: /register/
 
 {% else %}
 <br>
-## Registration is closed.
+# Registration is closed.
 <br>
 {% endif %}
 
