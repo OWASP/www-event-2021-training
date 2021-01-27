@@ -5,7 +5,7 @@ layout: event_noheader
 permalink: /schedule/
 
 ---
-## Our 2021 OWASP Virtual Training Program will be launching in the coming weeks. Please stay tuned as we annouce our exciting line-up for this year.
+## Our 2021 OWASP Virtual Training Program will be launching in the coming weeks. Please stay tuned as we announce our exciting line-up for this year.
 
 #The virtual training classes range between 4-8 hours in total length. Courses offered in 4 hour blocks per day from January 26-27th. 
 
