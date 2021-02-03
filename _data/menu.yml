@@ -13,13 +13,13 @@
     #- title: Call for Training 2021
     #  url : https://owasp.submittable.com/submit/181232/2021-virtual-appsec-days-training-events
     #- title: Call for Speakers/Trainers
-- title: ABOUT
+- title: SPONSOR
   items:
     - title: Sponsorship Opportunities
       url  : /sponsors/
     #- title: Volunteer
      # url  : /
-    - title: Event Details
+    #- title: Event Details
       url  : /venue/about/
     #- title: Progam Team
     #  url  : /
