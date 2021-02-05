@@ -1,5 +1,5 @@
-- logo: 
-  name: 
-  url: 
+- logo: /assets/images/sponsors/sponsor1.png
+  name: Sponsor1
+  url: https://owasp.org
   backgroundSize: 125px
   type: sponsor
