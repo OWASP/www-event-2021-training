@@ -11,5 +11,5 @@ layout: event
 
 {{ site.data.event-details.pitch }}
 
-
+<a id="sched-embed" href="//owasp2021virtualappsec.sched.com/" data-sched-sidebar="no">View the OWASP 2021 Virtual AppSec Training Program schedule &amp; directory.</a><script type="text/javascript" src="//owasp2021virtualappsec.sched.com/js/embed.js"></script>
 
