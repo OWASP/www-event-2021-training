@@ -16,7 +16,7 @@ permalink: /register/
 {% endif %}
 
 {% if site.data.event-details.registration_open %}
-### REGISTRATION IS NOW CLOSED.
+### https://www.eventbrite.com/e/140937930143
  
 {% include registration_form.md show_dietary_restrictions="false" primary_color="#0079a7" %}
 
