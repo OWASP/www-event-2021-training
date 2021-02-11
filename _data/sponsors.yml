@@ -1,5 +1,5 @@
-- logo: /assets/images/sponsors/sponsor2.png
-  name: Sponsor2
-  url: https://owasp.org
+- logo: /assets/images/sponsors/Invicti Green RGB (1).png
+  name: Invicti
+  url: https://www.invicti.com/products/?utm_medium=events&utm_source=tradeshow&utm_campaign=i-owaspevents&utm_content=210209-websitevisit-virtualevent&utm_term=brand
   backgroundSize: 125px
-  type: Ruby
+  type: 
