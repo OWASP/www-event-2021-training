@@ -4,6 +4,12 @@
   items:
     - title: 2021 Program Line-Up
       url : /schedule/
+    - title: June
+      url: /schedule_june/
+    - title: July
+      url: /schedule_july/
+    - title: November
+      url: /schedule_november/
     # - title: June Training
     #   url : http://owaspjune2021virtualappsect.sched.com/
     # - title: Our Trainers
