@@ -2,7 +2,7 @@
 
 title: November Schedule
 layout: event_noheader
-permalink: /schedule_november/
+permalink: /schedule_nov/
 
 ---
 
