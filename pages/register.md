@@ -9,14 +9,14 @@ The virtual training classes are 8 hour courses offered in 4-hour blocks over tw
 
 OWASP Members save $50 off the cost of a training course. Email events@owasp.com for your member discount code. If you are not an OWASP Member, please consider joining [here](https://owasp.org/membership/).
 
-### Registration for [May Schedule](/schedule_may/)
+### [May Schedule](/schedule_may/)
 [May Registration](https://www.eventbrite.com/e/owasp-2021-virtual-appsec-training-tickets-140937930143)
 
-### Registration for [June Schedule](/shecule_june/)
+### [June Schedule](/shecule_june/)
 [June Registration](https://www.eventbrite.com/e/owasp-2021-virtual-appsec-training-june-tickets-150758856799)
 
-### Registration for [July Schedule](/schedule_july/)
+### [July Schedule](/schedule_july/)
 [July Registration](https://www.eventbrite.com/e/owasp-2021-virtual-appsec-training-july-tickets-150799640785)
 
-### Registration for [November Schedule](/schedule_november/)
+### [November Schedule](/schedule_november/)
 [November Registration](https://www.eventbrite.com/e/owasp-2021-virtual-appsec-training-november-tickets-150803696917)
