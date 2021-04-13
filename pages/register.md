@@ -5,7 +5,7 @@ layout: event_noheader
 permalink: /register/
 
 ---
-The virtual training classes are 8 hour courses offered in 4-hour blocks over two days. The trainings will begin at 12:00pm Eastern Time (USA)/6:00pm Central European Time. 
+The virtual training classes are 8 hour courses offered in 4-hour blocks over two days. 
 
 OWASP Members save $50 off the cost of a training course. Email events@owasp.com for your member discount code. If you are not an OWASP Member, please consider joining [here](https://owasp.org/membership/).
 
