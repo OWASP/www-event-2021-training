@@ -14,4 +14,4 @@ OWASP Members save $50 off the cost of a training course. Email events@owasp.com
 
 [REGISTER HERE FOR TRAINING](https://www.eventbrite.com/e/owasp-2021-virtual-appsec-training-july-tickets-150799640785)
 
-<a id="sched-embed" href="//owaspjuly2021virtualappsect.sched.com/list/descriptions/">View the OWASP July 2021 Virtual AppSec Training Program schedule &amp; directory.</a><script type="text/javascript" src="//owaspjuly2021virtualappsect.sched.com/js/embed.js"></script>
+<a id="sched-embed" href="//owaspjuly2021virtualappsect.sched.com/">View the OWASP July 2021 Virtual AppSec Training Program schedule &amp; directory.</a><script type="text/javascript" src="//owaspjuly2021virtualappsect.sched.com/js/embed.js"></script>
