@@ -8,7 +8,7 @@ permalink: /schedule_june/
 
 ![Schedule Header Image](/assets/images/scheduleheader2021Training.png){:width="100%" height="260px"}
 
-The virtual training classes are 8 hour courses offered in 4-hour blocks over two days. The trainings will begin at 12:00pm MSK (UTC + 3)
+The virtual training classes are 8 hour courses offered in 4-hour blocks over two days (June 15-16). **The trainings will begin at 12:00pm MSK (UTC + 3)**
 
 OWASP Members save $50 off the cost of a training course. Email events@owasp.com for your member discount code. If you are not an OWASP Member, please consider joining [here](https://owasp.org/membership/).
 
