@@ -2,8 +2,6 @@
   url: /
 - title: PROGRAM
   items:
-    - title: May
-      url : /schedule_may/
     - title: June
       url: /schedule_june/
     - title: July
