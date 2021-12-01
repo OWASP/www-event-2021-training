@@ -1,9 +1,9 @@
-- title: HOME
-  url: /
-- title: PROGRAM
-  items:
-    - title: November
-      url: /schedule_nov/
+#- title: HOME
+  #url: /
+#- title: PROGRAM
+  #items:
+    #- title: December
+      #url: /schedule_nov/
     # - title: June Training
     #   url : http://owaspjune2021virtualappsect.sched.com/
     # - title: Our Trainers
@@ -13,10 +13,10 @@
     #- title: Call for Training 2021
     #  url : https://owasp.submittable.com/submit/181232/2021-virtual-appsec-days-training-events
     #- title: Call for Speakers/Trainers
-- title: SPONSOR
-  items:
-    - title: Sponsorship Opportunities
-      url  : /sponsors/
+#- title: SPONSOR
+  #items:
+    #- title: Sponsorship Opportunities
+      #url  : /sponsors/
     #- title: Volunteer
      # url  : /
     #- title: Event Details
