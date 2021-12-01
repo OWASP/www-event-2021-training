@@ -5,7 +5,7 @@ layout: event_noheader
 permalink: /register/
 
 ---
-The virtual training classes are 8 hour courses offered in 4-hour blocks over two days, December 15 and December 17. Both training days will begin at 7 am/PST.
+The virtual training class is an 8-hour courses offered in 4-hour blocks over two days, December 15 and December 17. Both training days will begin at 7 am/PST.
 
 OWASP Members save $300 off the cost of a training course. Email events@owasp.com for your member discount code. If you are not an OWASP Member, please consider joining [here](https://owasp.org/membership/).
 
