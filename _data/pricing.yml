@@ -1,11 +1,11 @@
 #- title: 1-part Training
  # price: Free
  # info: "* This course requires a diversity scholarship application.<br>See program for details."
-- title: 2-part Training
-  price: $505
+- title: 2-part Training December 15 and December 17
+  price: $600
   items: 
-   - title: Member 2-part Training
-     price: $455
+   - title: Member 2-part Training December 15 and December 17
+     price: $300
      info: "* For member discount code contact events@owasp.com"   
 #- title: 3-part Training
   # price: $990
