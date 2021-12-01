@@ -1,7 +1,7 @@
 ---
 
-#title: OWASP Training Events 2021
-#layout: event
+title: OWASP Training Events 2021
+layout: event
 
 ---
 
