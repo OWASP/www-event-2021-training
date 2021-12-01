@@ -1,12 +1,12 @@
 #- title: 1-part Training
  # price: Free
  # info: "* This course requires a diversity scholarship application.<br>See program for details."
-- title: 2-part Training
+- title: Non-Member 2-part Training
   price: $600
   items: 
-   - title: Member 2-part Training
-     price: $300
-     info: "* For member discount code contact events@owasp.com"   
+- title: Member 2-part Training
+  price: $300
+  #info: "* For member discount code contact events@owasp.com"   
 #- title: 3-part Training
   # price: $990
   # items: 
