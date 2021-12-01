@@ -11,6 +11,6 @@ layout: event
 
 {{ site.data.event-details.pitch }}
 
-#Check out the November Schedule:
+#Check out the December Training:
 
 #<a id="sched-embed" href="//owasp2021mayvirtualappsectr.sched.com/" data-sched-sidebar="no">View the OWASP November 2021 Virtual AppSec Training Program schedule &amp; directory.</a><script type="text/javascript" src="//owasp2021mayvirtualappsectr.sched.com/js/embed.js"></script
