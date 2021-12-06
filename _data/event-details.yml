@@ -1,44 +1,21 @@
-title: OWASP Training Events 2021
-dates: "Next Event:<br>December 15 and continued on December 17, 2021"
+title: OWASP Training Events 2021<br><span style='font-size:smaller;font-weight:normal;'>OWASP Training Events are perfect opportunities for you and your team to expand upon your application security knowledge. Come join us at any of our upcoming events, listed below</span>
+dates: "Next Event: <a href='https://www.eventbrite.com/e/happy-holidays-owasp-virtual-developer-training-dec-15-dec-17-tickets-220884460367'>OWASP Top 10 Developer Training with Jim Manico</a><br>Dates: December 15 and continued on December 17, 2021"
 # training: TBD
 # conference: TBD
-registration_url: https://www.eventbrite.com/e/happy-holidays-owasp-virtual-developer-training-dec-15-dec-17-tickets-220884460367
+registration_url: /register/
 logo_url: https://owasp.org/
-venue: Virtual Training Event
+event_logo: owasp_training_logo.png
+venue:
 location: 
 background: webheader2021Training.png
+bigheader: true
 color: 36006d
 analytics: 
 registration_open: true
-pitch: "OWASP Top 10 Developer Training with Trainer Jim Manico
-<br>
-<br>
-NOTE: This is ONE training course that is being split over the course of TWO days, FOUR hours each day. Wednesday, December 15, AND Friday, December 17. Friday will be a continuation from Wednesday. Both training days will begin at 7 am/PST.
-<br>
-Software developers are the foundation of any application. As software developers author code that makes up a web application or API, they need to embrace and practice a wide variety of secure coding techniques. The OWASP Top Ten (2021) is an OWASP documentation project that lists critical security risks that should be addressed in every software development project. This document was written to assist those new to secure development.
-<br>
-This training is targeted for developers to help them write more secure code. This class will include both lectures and a variety of demonstrations. We'll also do a few different labs together at the end of the class on day 2.
-<br>
-We will cover the following topics:
-<br>
-A01:2021-Broken Access Control
-<br>
-A02:2021-Cryptographic Failures
-<br>
-A03:2021-Injection
-<br>
-A04:2021-Insecure Design
-<br>
-A05:2021-Security Misconfiguration
-<br>
-A06:2021-Vulnerable and Outdated Components
-<br>
-A07:2021-Identification and Authentication Failures
-<br>
-A08:2021-Software and Data Integrity Failures
-<br>
-A09:2021-Security Logging and Monitoring Failure
-<br>
-A10:2021-Server-Side Request Forgery" 
+pitch: >-
+    ### Train with OWASP Training. 
 
-image_attribution: "<span>Photo by <a href='https://unsplash.com/@steve_j?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Steve Johnson</a> on <a href='https://unsplash.com/s/photos/technology-abstract?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a></span>"
+    OWASP Trainings are highly sought, industry-respected, educational, career advancing, and fun. In December 2021 the OWASP Foundation is bringing the global AppSec community a special holiday offering. 
+    <br><br>Join us throughout 2022 as we offer all new topics and skills through our OWASP Virtual Training Course line-up. We'll be crossing multiple timezones, so be sure not miss out on these multi-day virtual trainings to retool and level-up.
+    <br><br>Additional program details, timezones, and information will be available here and on the training sites of the various events.
+image_attribution: 

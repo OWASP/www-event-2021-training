@@ -1,9 +1,11 @@
 ---
 
 title: OWASP Training Events 2021
-layout: event
+layout: event-2.0
+pricing: false
 
 ---
+
 
 <!-- rebuild 13 -->
 

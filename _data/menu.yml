@@ -1,9 +1,9 @@
-#- title: HOME
-  #url: /
-#- title: PROGRAM
-  #items:
-    #- title: December
-      #url: /schedule_nov/
+- title: HOME
+  url: /
+- title: SCHEDULE
+  items:
+    - title: Holiday Training, 12-15 and 12-17
+      url: https://training-12.owasp.org/
     # - title: June Training
     #   url : http://owaspjune2021virtualappsect.sched.com/
     # - title: Our Trainers
